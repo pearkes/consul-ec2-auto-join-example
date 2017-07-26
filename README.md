@@ -153,4 +153,3 @@ These examples use new features of many of the tools. At the time of writing, th
 
 foo
 
-:|
