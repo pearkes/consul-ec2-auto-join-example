@@ -152,3 +152,5 @@ These examples use new features of many of the tools. At the time of writing, th
 - Consul v0.7.5 
 
 foo
+
+:|
