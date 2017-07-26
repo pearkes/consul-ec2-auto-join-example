@@ -151,4 +151,4 @@ These examples use new features of many of the tools. At the time of writing, th
 - Terraform v0.9.0
 - Consul v0.7.5 
 
-test
+foo
