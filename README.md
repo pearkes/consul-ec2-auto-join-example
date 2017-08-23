@@ -5,6 +5,9 @@ Consul 0.7.5 introduced new functionality which allows it to discover other agen
 
 The [latest documentation for Consul](https://www.consul.io/docs/agent/options.html) shows new options we can specify in the Consul configuration file or startup parameters.
 
+
+ga
+
 - `-retry-join-ec2-tag-key` - The Amazon EC2 instance tag key to filter on. When used with `-retry-join-ec2-tag-value`, Consul will attempt to join EC2 instances with the given tag key and value on startup. 
 - `-retry-join-ec2-tag-value` - The Amazon EC2 instance tag value to filter on.
 - `-retry-join-ec2-region` - (Optional) The Amazon EC2 region to use. If not specified, Consul will use the local instance's EC2 metadata endpoint to discover the region.
