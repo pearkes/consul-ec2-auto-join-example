@@ -9,6 +9,8 @@ The [latest documentation for Consul](https://www.consul.io/docs/agent/options.h
 - `-retry-join-ec2-tag-value` - The Amazon EC2 instance tag value to filter on.
 - `-retry-join-ec2-region` - (Optional) The Amazon EC2 region to use. If not specified, Consul will use the local instance's EC2 metadata endpoint to discover the region.
 
+
+afafa
 The new feature requires permission to read the AWS instance state, and there are a variety of options available to grant these permissions.
 
 - Static credentials (from the config file)
